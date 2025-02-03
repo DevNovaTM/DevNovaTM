@@ -1,4 +1,4 @@
-/👋 Hello, its Nova. 
+👋 Hello, its Nova.
 
 💡 We are going to do messandger with 
 very god anonymity.  
